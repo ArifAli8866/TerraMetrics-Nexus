@@ -210,7 +210,7 @@
 > 🌐 **Try it now!** – Simply open `index.html` in your browser (no build required).
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=TerraMetrics+Nexus+Screenshot" alt="Dashboard Screenshot" width="80%" style="border-radius: 15px; border: 3px solid #7F3FBF;" />
+  <img src="screenshot.png" alt="Dashboard Screenshot" width="80%" style="border-radius: 15px; border: 3px solid #7F3FBF;" />
 </p>
 
 <p align="center">
